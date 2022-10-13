@@ -35,7 +35,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 8) Cancellation Rate
 9) Month over Month Change
 
-## Things I learnt while making this dashboard:
+## Things I learn while making this dashboard:
 1) Understanding business requirements and KPIs
 2) How to write DAX formulas to find interesting metrics like MoM revenue change %.
 3) Learnt, How to use format function to change the format of numbers in dynamics titles.
