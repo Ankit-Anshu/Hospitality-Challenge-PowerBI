@@ -38,9 +38,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Things I learn while making this dashboard:
 1) Understanding business requirements and KPIs
 2) How to write DAX formulas to find interesting metrics like MoM revenue change %.
-3) Learnt, How to use format function to change the format of numbers in dynamics titles.
-4) Learnt , how to select right chart for visualization and arrange it on the dashboard to tell a story about data.
-5) How to select right colors in order to easily understand the charts.
+3) How to use format function to change the format of numbers in dynamics titles.
+4) How to select the right chart for visualization and arrange it on the dashboard to tell a story about data.
+5) How to select the right colors in order to easily understand the charts.
 6) Developing beautiful UI
 
 
